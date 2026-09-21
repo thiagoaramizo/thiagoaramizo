@@ -1,47 +1,63 @@
 # Thiago Aramizo
 
-**Tech Lead · AI Engineer · Software Engineer**
+### Tech Lead · AI Engineer · Software Engineer
 
-I build SaaS products, distributed systems and AI-powered software —
-from architecture and engineering practices to production.
+I design and build software products, AI systems and the infrastructure
+behind them.
 
-Currently leading engineering at **Chave7**, working across software
-architecture, product delivery, developer experience and AI-assisted
-development.
+Currently leading engineering at **Chave7**, where I work across
+architecture, product, engineering practices and AI-assisted development.
 
-### Focus
+---
 
-- AI Agents & Agentic Engineering
-- TypeScript / Node.js / NestJS
-- Python / FastAPI
-- SaaS & distributed systems
-- AWS / Docker / PostgreSQL / Redis
-- APIs, integrations & asynchronous processing
-- Software architecture & engineering leadership
+### What I work with
 
-### Selected work
+**AI & Automation**  
+AI Agents · LLMs · Agentic Engineering · RAG · MCP
 
-**structured-json-agent**  
-Typed and extensible infrastructure for building AI agents that
-produce structured JSON.
+**Backend & Systems**  
+TypeScript · Node.js · NestJS · Python · FastAPI
 
-**vectorial-search-service**  
-Backend service for data registration and semantic search,
-designed as an MCP-compatible context provider.
+**Infrastructure**  
+AWS · Docker · PostgreSQL · Redis · Distributed Systems
 
-**redis-bullmq-explorer**  
-Desktop application for exploring BullMQ queues stored in Redis.
+**Engineering**  
+Software Architecture · APIs · Integrations · Async Processing ·
+Testing · Technical Leadership
 
-**file-to-md**  
-Document processing service for extracting structured text from
-Office, OCR and native document formats.
+---
 
-### Engineering
+### Open Source & Experiments
 
-I care about building systems that are understandable, observable
-and maintainable.
+A selection of things I'm building, exploring or maintaining.
 
-My work usually sits at the intersection of **product, architecture
-and implementation**: translating business problems into technical
-systems, establishing engineering standards, and helping teams ship
-continuously.
+→ **structured-json-agent**  
+Typed infrastructure for AI agents that produce structured JSON.
+
+→ **vectorial-search-service**  
+Semantic search and context infrastructure built around MCP.
+
+→ **redis-bullmq-explorer**  
+Desktop tooling for inspecting BullMQ queues backed by Redis.
+
+→ **file-to-md**  
+Document extraction and normalization using OCR and native parsers.
+
+---
+
+### How I think about engineering
+
+I like turning ambiguous problems into simple systems.
+
+My work sits between **product, architecture and implementation**:
+understanding the problem, designing the system, building it and making
+sure it can evolve.
+
+I care about software that is:
+
+**Understandable · Observable · Maintainable · Scalable**
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/aramizo) ·
+[GitHub](https://github.com/thiagoaramizo)
