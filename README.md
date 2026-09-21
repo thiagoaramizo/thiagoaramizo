@@ -45,7 +45,3 @@ My work usually sits at the intersection of **product, architecture
 and implementation**: translating business problems into technical
 systems, establishing engineering standards, and helping teams ship
 continuously.
-
-### Connect
-
-LinkedIn · GitHub
